@@ -16,6 +16,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <array name="wallpapers" translatable="false">
+        <item>kasumitoyama</item>
+        <item>ayamaruyama</item>
+        <item>yukinaminato</item>
+        <item>ranmitake</item>
+        <item>kokorotsurumaki</item>
+        <item>mashirokurata</item>
+        <item>LAYER</item>
         <item>ascension_blaze</item>
         <item>ascension_ice</item>
         <item>ascension_mist</item>
